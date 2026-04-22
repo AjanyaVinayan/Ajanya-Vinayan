@@ -31,17 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjanyaVinayan&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjanyaVinayan&theme=radical"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
