@@ -1,13 +1,55 @@
-# Ajanya-Vinayan
-Hi, I'm Ajanya 👋  
+<h1 align="center">Hi 👋, I'm Ajanya Vinayan</h1>
+<h3 align="center">MCA Student | Aspiring Full Stack Developer</h3>
 
-🎓 MCA Student  
-💻 Interested in Web Development Data Analysis and UI Design  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AjanyaVinayan&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-🛠 Skills:
-- HTML, Tailwind CSS, JavaScript  
-- Python
-- Data Analysis 
+<p align="center">
+  🌱 Passionate about Web Development & UI Design <br>
+  🚀 Currently working on Xplora (Tourism Web App)
+</p>
 
- 📫 Connect with me:
-- LinkedIn: (add your link)
+---
+
+## ✨ About Me
+- 🎓 MCA Student  
+- 💻 Interested in Web Development & UI Design  
+- 🤖 Exploring Machine Learning basics  
+- 🎯 Goal: Become a Full Stack Developer  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjanyaVinayan&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjanyaVinayan&theme=radical"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
