@@ -1,32 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ajanya Vinayan</h1>
-<h3 align="center">MCA Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">MCA Student | Aspiring Data Analyst</h3>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjanyaVinayan&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  🌱 Passionate about Web Development & UI Design <br>
-  🚀 Currently working on Xplora (Tourism Web App)
+  📊 Passionate about Data Analysis & Visualization <br>
+  🚀 Working on real-world data projects
 </p>
 
 ---
 
 ## ✨ About Me
-- 🎓 MCA Student  
-- 💻 Interested in Web Development & UI Design  
-- 🤖 Exploring Machine Learning basics  
-- 🎯 Goal: Become a Full Stack Developer  
+- 🎓 MCA Student at Christ University  
+- 📊 Interested in Data Analysis & Visualization , Web Development  
+- 🎯 UI Design
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau"/>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
 </p>
 
 ---
@@ -38,7 +35,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ajanyavinay2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
